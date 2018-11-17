@@ -11,9 +11,6 @@ public class jsonTest {
     public static void main(String[] args){
 
 
-
-        
-
         JsonObject to=new JsonObject();
         JsonArray finalar= new JsonArray();
         JsonArray jarr= new JsonArray();
